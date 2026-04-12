@@ -1,0 +1,12 @@
+K(30%): 100
+I(30%): 85
+C(10%): 100
+A(30%): 90
+92.5 % of 90: 83.25
+
+Avoid nesting past 3 levels.
+You should instead do the opposite of the conditions and use else if.
+Specify your errors (don't say + . or _  tell them which one) (too long or short)
+Starts with dot should work for gmail account since it would be removed.
+It should also say gmail(normalized) when a gmail account.
+Input should be on the same line as the prompt.
